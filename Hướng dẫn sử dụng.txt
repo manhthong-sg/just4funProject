@@ -1,0 +1,8 @@
+1. ấn nút win+r nó hiện ra cái thanh gõ
+2. gõ shell:common startup --->enter
+3. copy cái shortcut "để ngoài...má nó click" bỏ vô thư mục đó để nó khởi động cùng win
+done!
+// Cách 2
+1. gpedit.msc --> enter
+2. Tìm đến startup thêm file .bat vào
+/* Chủ yếu để quản lý con cái để nó bớt game liên tục thôi :)) */
